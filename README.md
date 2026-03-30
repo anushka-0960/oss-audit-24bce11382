@@ -65,4 +65,4 @@ All script execution screenshots are available in the `screenshots/` folder.
 
 ## 📄 Conclusion
 
-This project demonstrates understanding of open-source software, Linux environment, and shell scripting.
+This project demonstrates understanding of open-source software, Linux environment and shell scripting.

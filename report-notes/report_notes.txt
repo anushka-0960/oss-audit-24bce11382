@@ -1,0 +1,29 @@
+Open Source Audit - Notes
+
+1. Objective:
+The objective of this project is to analyze and audit open-source software using shell scripts.
+
+2. Tools Used:
+- Git Bash
+- Shell Scripting (.sh files)
+- Apache HTTP Server
+
+3. Scripts Description:
+- system_identity.sh: Displays system details
+- package_inspector.sh: Checks installed packages
+- disk_permission_auditor.sh: Audits directory permissions
+- log_file_analyzer.sh: Analyzes log files
+- manifesto_generator.sh: Generates open-source statement
+
+4. Learning Outcome:
+- Learned basic shell scripting
+- Understood open-source concepts
+- Learned how to use Git and GitHub
+
+5. Challenges Faced:
+- Understanding script execution
+- File permissions issues
+- GitHub uploading errors
+
+6. Conclusion:
+This project helped in understanding practical use of open-source tools and scripting.

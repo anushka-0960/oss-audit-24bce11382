@@ -1,6 +1,0 @@
-INFO system started
-WARNING low memory
-ERROR failed to open file
-INFO retrying
-error network timeout
-WARNING disk almost full

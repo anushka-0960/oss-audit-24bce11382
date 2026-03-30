@@ -19,3 +19,31 @@ It focuses on understanding licensing, Linux usage, and practical shell scriptin
 ---
 
 ## 📂 Project Structure
+.
+├── scripts/
+├── screenshots/
+├── report-notes/
+├── README.md
+├── testlog.txt
+├── manifesto_hp.txt
+
+
+---
+
+## ⚙️ Scripts Included
+
+| Script | Description |
+|------|------------|
+| system_identity.sh | Displays system information |
+| package_inspector.sh | Checks software installation |
+| disk_permission_auditor.sh | Audits directories |
+| log_file_analyzer.sh | Analyzes log file |
+| manifesto_generator.sh | Generates open-source statement |
+
+---
+
+## ▶️ How to Run
+
+```bash
+cd /c/Users/hp/OneDrive/Desktop/oss-audit-24bce11382
+chmod +x scripts/*.sh

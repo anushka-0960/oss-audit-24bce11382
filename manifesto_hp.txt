@@ -1,0 +1,4 @@
+On 31 March 2026, I reflected on the value of open source.
+The tool I use regularly is Git, and it reminds me that software freedom means Learning.
+If I could contribute something openly, I would build student study tools and share it so others could use, study, improve, and distribute it.
+This is why open source matters to me.

@@ -35,7 +35,7 @@ It focuses on understanding licensing, Linux usage, and practical shell scriptin
 | Script | Description |
 |------|------------|
 | system_identity.sh | Displays system information |
-| package_inspector.sh | Checks software installation |
+| package_inspector.sh | Checks softRun scripts:ware installation |
 | disk_permission_auditor.sh | Audits directories |
 | log_file_analyzer.sh | Analyzes log file |
 | manifesto_generator.sh | Generates open-source statement |
@@ -47,3 +47,22 @@ It focuses on understanding licensing, Linux usage, and practical shell scriptin
 ```bash
 cd /c/Users/hp/OneDrive/Desktop/oss-audit-24bce11382
 chmod +x scripts/*.sh
+
+```
+Run scripts:
+
+```
+./scripts/system_identity.sh
+./scripts/package_inspector.sh
+./scripts/disk_permission_auditor.sh
+./scripts/log_file_analyzer.sh testlog.txt error
+./scripts/manifesto_generator.sh
+---
+```
+## 📸 Screenshots
+
+All script execution screenshots are available in the `screenshots/` folder.
+
+## 📄 Conclusion
+
+This project demonstrates understanding of open-source software, Linux environment, and shell scripting.
